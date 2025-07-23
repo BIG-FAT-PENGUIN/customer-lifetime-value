@@ -11,7 +11,7 @@ import seaborn as sns
 model = joblib.load("model/best_clv_model.pkl")
 feature_columns = joblib.load("feature_columns.pkl")
 
-# -------------------------
+# ------------------------
 # Streamlit Setup
 # -------------------------
 st.set_page_config(page_title="CLV Predictor", layout="wide")
