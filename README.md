@@ -1,5 +1,6 @@
-# customer-lifetime-value
-ML-based CLV prediction with Streamlit dashboard
+# Customer-lifetime-value Prediction--
+## link to the project--([https://customer-lifetime-value-mqmdldbfep9gy4trk7pwk4.streamlit.app/])
+           # ML-based CLV prediction with Streamlit dashboard
 
 
 # Project overview--
