@@ -1,0 +1,5 @@
+model/*.pkl
+*.csv
+*.zip
+__pycache__/
+.DS_Store
